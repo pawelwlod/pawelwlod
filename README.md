@@ -1,18 +1,7 @@
-<!--
-╔══════════════════════════════════════════════════════════════╗
-║                      PAWEL WLODARSKI                         ║
-║       Developer • Aspiring Threat Analyst • CyberSecurity    ║
-╚══════════════════════════════════════════════════════════════╝
--->
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Pawel%20Wlodarski&fontColor=58a6ff&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Aspiring%20Threat%20Analyst%20%E2%80%A2%20CyberSecurity&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=180&section=header&text=Pawel.W&fontColor=58a6ff&fontSize=48&animation=fadeIn&fontAlignY=35&desc=Developer%20%E2%80%A2%20Aspiring%20Threat%20Analyst%20%E2%80%A2%20Cybersecurity&descAlignY=58&descSize=17&descAlign=50" width="100%"/>
 
 ### Hi, I'm Pawel 👋
-
-I'm an **Information Communication Technician** with a strong interest in **software development and cybersecurity**.
-
-I enjoy building things, experimenting with technology, learning how systems work, and occasionally breaking them so I can understand how to fix them.
 
 <br/>
 
@@ -27,41 +16,24 @@ $ whoami
 ```
 
 ```yaml
-name: "Pawel Wlodarski"
+name: "Pawel.W"
 
 role:
   - "Information Communication Technician"
 
 interests:
   - "Software Development"
-  - "Cybersecurity & Threat Intelligence"
+  - "Threat intelligence & bonking malware with a stick"
   - "Linux & Homelabbing"
+  - "Drinking caffeine"
+  - "Experimenting with security tools and technologies
 
 currently_learning:
-  - "Cybersecurity"
-  - "Network Security"
+  - "Threat Intelligence & Malware Analysis"
+  - "Balancing my sleep schedule"
   - "Software Development"
-  - "Python"
-  - "Perl"
+  - "Perl (help)"
 ```
-
-## 👨‍💻 About Me
-
-I'm interested in understanding **how software, systems, and networks actually work** - not just using them.
-
-My current focus is moving further into **cybersecurity and software development**, while building practical projects to develop my skills.
-
-A lot of my learning happens through personal projects, experimentation, and my own home lab.
-
-I'm particularly interested in:
-
-* Network security and threat intelligence
-* Python development
-* Software development
-* Networking and infrastructure
-* Linux
-* Homelabbing and self-hosted services
-* Experimenting with security tools and technologies
 
 ---
 
@@ -69,32 +41,14 @@ I'm particularly interested in:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Perl](https://img.shields.io/badge/Perl-0073A1?style=for-the-badge&logo=perl&logoColor=white)
-![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-
----
-
-## 📚 Currently Learning
-
-I'm actively working on developing my knowledge in:
-
-```text
-Cybersecurity
-├── Network Security
-├── Monitoring & Detection
-├── Security Tooling
-└── Threat Intelligence
-
-Software Development
-├── Python
-├── Perl
-├── Javascript
-└── Application Design
-```
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
@@ -103,6 +57,8 @@ Software Development
 <img height="165em" src="https://github-stats-extended.vercel.app/api?username=pawelwlod&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 <img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=pawelwlod&layout=compact&hide_border=true&theme=github_dark"/>
 </div>
+
+<p align="center"><img width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZlNWg4YmRuYXdlOWdiZmp1MTdxOWc4cjB3YXZidTB2amp1cGNieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" /></p>
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=100&section=footer" width="100%"/>
