@@ -27,7 +27,7 @@ interests:
   - "Threat intelligence & bonking malware with a stick"
   - "Linux & Homelabbing"
   - "Drinking caffeine"
-  - "Experimenting with security tools and technologies
+  - "Experimenting with security tools and technologies"
 
 currently_learning:
   - "Threat Intelligence & Malware Analysis"
