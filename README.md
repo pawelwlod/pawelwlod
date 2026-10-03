@@ -55,8 +55,10 @@ currently_learning:
 
 ## 📈 GitHub Activity
 <div align="center">
+  
 ![Stats](./profile/stats.svg)
 ![Top Languages](./profile/top-langs.svg)
+
 </div>
 
 <p align="center"><img width="50%" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzZlNWg4YmRuYXdlOWdiZmp1MTdxOWc4cjB3YXZidTB2amp1cGNieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" /></p>
