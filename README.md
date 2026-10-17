@@ -20,7 +20,7 @@ $ whoami
 name: "Pawel.W"
 
 role:
-  - "Information Communication Technician"
+  - "System Support Technician"
 
 interests:
   - "Software Development"
